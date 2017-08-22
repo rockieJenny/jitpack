@@ -20,5 +20,8 @@ android {
 
 dependencies {
     //compile 'com.github.rockieJenny:android-resource-translation-import:1.0'
+    //compile 'com.github.rockieJenny:jitpack:-SNAPSHOT'
+    compile project(':lib')
+
 }
 
